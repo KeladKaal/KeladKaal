@@ -1,4 +1,6 @@
 ITMO student with pink hair
-(Also a bit of DevOps)
-![image_861712170827452717822](https://user-images.githubusercontent.com/64036217/132940734-cf8db67c-ca2e-43a8-a267-fec0904f5038.gif)
 
+(Also a bit of DevOps)
+
+
+![279a2f2169667489e0abd109dfeeb3fc](https://user-images.githubusercontent.com/64036217/132940814-c0641fab-2817-45f0-a01e-b82cb56abec8.gif)
