@@ -1,4 +1,4 @@
-ITMO student with pink hair
+ITMO student
 
 (Also a bit of DevOps)
 
