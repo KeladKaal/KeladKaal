@@ -1,5 +1,4 @@
-DevOps Engineer with 6+ years of commercial experience.  
-Linkedin: https://www.linkedin.com/in/tanya-migulaeva/  
+DevOps Engineer 
 ITMO Lecturer  
 
 
